@@ -1,6 +1,10 @@
 {
-  "user":{
-    "email": "jcicha@gmail.com",
-    "password": "Deloitte"
+  "user1":{
+  "email":"jcichaaaaa@gmail.com",
+  "password": "Deloitte"
+  },
+  "user2":{
+  "email": "jcicha@gmail.com",
+  "password": "Deloitte"
   }
 }
