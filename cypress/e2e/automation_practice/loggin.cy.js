@@ -18,7 +18,7 @@ context('e-shop go to', () => {
                 MainPage.setEmail(data[Object.keys(data)[i]].email);
                 MainPage.setPassword(data[Object.keys(data)[i]].password);
                 MainPage.clickSubmitLogin();
-                i++;
+                i++; // asercja czy poprawny uzytkownik si ezlogowal for each np.
             })
         })
     })
